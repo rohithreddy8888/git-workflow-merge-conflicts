@@ -1,2 +1,6 @@
-This is a feature file.
+<<<<<<< HEAD
 Additional changes to feature.txt in main branch
+=======
+Fixes applied to feature.txt
+>>>>>>> fix
+
